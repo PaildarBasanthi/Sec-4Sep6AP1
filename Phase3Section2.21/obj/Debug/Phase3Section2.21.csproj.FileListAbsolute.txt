@@ -1,0 +1,2 @@
+C:\Phase2Training(MSSQL)\Phase3Section2.21\Phase3Section2.21\obj\Debug\Phase3Section2.21.csproj.AssemblyReference.cache
+C:\Phase2Training(MSSQL)\Phase3Section2.21\Phase3Section2.21\obj\Debug\Phase3Section2.21.csproj.CoreCompileInputs.cache
